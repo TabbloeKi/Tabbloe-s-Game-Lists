@@ -1,0 +1,47 @@
+html{
+    font-family: Comic Sans ms, sans-serif;
+    background-color: lightgray;
+}
+
+h1{
+    font-size: 70px;
+    border: 10px dotted blue;
+    text-align: center;
+}
+
+.uno{
+    font-size: 50px;
+    
+    border: 10px solid black;
+    width: fit-content;
+    padding: 10px;
+}
+.uno:hover{
+    background-color: white;
+}
+
+.dos{
+    font-size: 50px;
+    
+    border: 10px solid black;
+    width: fit-content;
+    padding: 10px;
+}
+.dos:hover{
+    background-color: white;
+}
+
+.tres{
+    font-size: 50px;
+
+    border: 10px solid black;
+    width: fit-content;
+    padding: 10px;
+}
+.tres:hover{
+    background-color: white;
+}
+
+p{
+    font-weight: bold;
+}
