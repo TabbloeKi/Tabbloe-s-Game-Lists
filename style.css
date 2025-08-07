@@ -45,3 +45,17 @@ h1{
 p{
     font-weight: bold;
 }
+
+.quatro{
+    height: 400px;
+}
+
+.cinco{
+    margin-right: 280px;
+}
+
+.div1{
+    position: relative;
+    left: 900px;
+    bottom: 500px;
+}
